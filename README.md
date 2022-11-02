@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Anton
-- 👀 I’m interested in Front-end-development: JS, TS, React, Redux
-- 💞️ I’m looking for collaboration on Non-commertial projects
 - 📫 How to reach me: khomchenko.anton@gmail.com
 
 <!---
