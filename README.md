@@ -1,7 +1,8 @@
 - 📫 How to reach me: khomchenko.anton@gmail.com
 
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=khomch)](https://github.com/anuraghazra/github-readme-stats)
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=khomch&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khomch&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 khomch/khomch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
