@@ -1,6 +1,7 @@
 - Hi there! Thank you for visiting my page.
 - I'm looking for a job as a front-end developer.
 - My stack: JS, TS, React, Redux, Node.js, Jest, Sass. I've also worked with MobX, Storybook, Handlebars, MongoDB, Cypress, Docker, PostgreSQL.
+- Also I have 9 years experience in project management.
 - 📫 How to reach me: anton@khomchenko.com
 
 
