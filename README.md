@@ -1,6 +1,6 @@
 - Hi there! Thank you for visiting my page.
 - I'm a Front-end software engineer with 9 years of experience in digital project management and 4 years of web development.
-- My stack: JS, TS, React, Redux, Node.js, Jest, Sass. I've also worked with MobX, Storybook, Handlebars, MongoDB, Cypress, Docker, PostgreSQL, CI/CD.
+- My stack: JS, TS, React, Redux, Node.js, Jest, Sass. I've also worked with MobX, Storybook, Loki, Handlebars, MongoDB, Cypress, Docker, PostgreSQL, CI/CD.
 - 📫 How to reach me: anton@khomchenko.com
 
 
