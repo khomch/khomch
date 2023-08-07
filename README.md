@@ -1,5 +1,5 @@
 - Hi there! Thank you for visiting my page.
-- I'm a Frontend Software Engineer with 4 years of experience in web development and 9 years in project management.
+- I'm a Product Manager / Frontend Software Engineer with 4 years of experience in web development and 9 years in management.
 - My stack: JavaScript, TypeScript, C, React, Redux, Redux-Toolkit, Node.js, Jest, Next.js, Sass, Tailwind. 
 - I've also worked with MobX, Storybook, Loki, Handlebars, Cypress, Docker, MongoDB, PostgreSQL, Nest.js, CI/CD.
 - 📫 How to reach me: anton@khomchenko.com
