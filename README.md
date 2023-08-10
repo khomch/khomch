@@ -1,7 +1,5 @@
 - Hi there! Thank you for visiting my page.
-- I'm a Product Manager / Frontend Software Engineer with 4 years of experience in web development and 9 years in management.
-- My stack: JavaScript, TypeScript, C, React, Redux, Redux-Toolkit, Node.js, Jest, Next.js, Sass, Tailwind. 
-- I've also worked with MobX, Storybook, Loki, Handlebars, Cypress, Docker, MongoDB, PostgreSQL, Nest.js, CI/CD.
+- I'm a Product Manager with nearly 5 years of experience in managing pioneering digital services.
 - 📫 How to reach me: anton@khomchenko.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khomch&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
