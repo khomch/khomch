@@ -1,6 +1,3 @@
-- Hi there! Thank you for visiting my page.
-- I'm a Product Manager with nearly 5 years of experience in managing pioneering digital services.
-- 📫 How to reach me: anton@khomchenko.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khomch&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
